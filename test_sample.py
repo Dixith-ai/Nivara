@@ -1,4 +1,4 @@
 from sample import add
 
 def test_add():
-    assert add(5, 3) == 8
+    assert add(4, 3) == 7
